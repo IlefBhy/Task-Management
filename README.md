@@ -7,7 +7,7 @@
 
 ### Backend
 - **Prisma**: For database interaction.
-- **MySQL** or **PostgreSQL**: As the relational database.
+- **MySQL** : As the relational database.
 
 ### Other Tools
 - **npm**: For package management.
